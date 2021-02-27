@@ -1,0 +1,7 @@
+<target name="test">
+        <junit>
+              <classpath refid="test.java" />
+              <formatter type="brief" usefile="false" />
+              <test name="TestHobbyHorse" />
+        </junit>
+</target>
