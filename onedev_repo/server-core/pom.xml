@@ -323,5 +323,9 @@
 	</dependencies>
 	<properties>
 		<moduleClass>io.onedev.server.CoreModule</moduleClass>
+		<sonar.projectKey>tafocy_Lab1_LOG8371</sonar.projectKey>
+		<sonar.moduleKey>${artifactId}</sonar.moduleKey>
+  		<sonar.organization>tafocy</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 </project>
